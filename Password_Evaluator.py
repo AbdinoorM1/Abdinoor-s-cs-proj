@@ -1,6 +1,6 @@
 # ---------------------------------------
 # Name: Abdinoor Moallin
-# Program: L6Q1AM.py
+# Program: Password_Evaluator.py
 # ---------------------------------------
 # Purpose: Creating a password analyzer using different functions 
 # ---------------------------------------
