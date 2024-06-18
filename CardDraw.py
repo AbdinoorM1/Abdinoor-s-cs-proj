@@ -1,3 +1,9 @@
+# ---------------------------------------
+# Name: Abdinoor Moallin
+# Program: CardDraw.py
+# ---------------------------------------
+# Purpose: Creating a password analyzer using different functions 
+# ---------------------------------------
 def draw_top(rank):
     print(" " + 7*"_")
     print("|" + rank + 6*" " + "|")  
