@@ -1,0 +1,1 @@
+Warehouse Summary is a simple python program that simulates daily warehouse operations. It takes a list of inventory items, generates random shipment orders (both incoming and outgoing), and displays a summary of the changes in stock levels.
