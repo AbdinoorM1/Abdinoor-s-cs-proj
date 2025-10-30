@@ -1,7 +1,7 @@
 # ----------------------------------------
 # Integrity pledge: This work is my own A.M
 # Name: Abdinoor Moallin
-# Program: L10Q1AM.py
+# Program: Framedimage.py
 # ----------------------------------------
 # Purpose: fixing a frame, creating a new image, pasting new image on frame
 # ----------------------------------------
