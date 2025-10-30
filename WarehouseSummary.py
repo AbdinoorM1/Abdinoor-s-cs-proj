@@ -1,7 +1,6 @@
 # ----------------------------------------
-# Integrity pledge: This work is my own A.M
-# Name: Abdinoor Moallin
-# Program: L7Q1AM.py
+# Name: Abdinoor M
+# Program: WarehouseSummary.py
 # ----------------------------------------
 # Purpose: To create a warehouse shipping summary using lists/functions
 # ----------------------------------------
